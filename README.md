@@ -1,9 +1,3 @@
-![Under Construction](http://textfiles.com/underconstruction/mamagnolia_acresunderconstruction.gif)
-
-![Construction work GIF](http://textfiles.com/underconstruction/MoMotorCity8021construct.gif)![Construction work GIF](http://textfiles.com/underconstruction/MoMotorCity8021construct.gif)![Construction work GIF](http://textfiles.com/underconstruction/MoMotorCity8021construct.gif)![Construction work GIF](http://textfiles.com/underconstruction/MoMotorCity8021construct.gif)![Construction work GIF](http://textfiles.com/underconstruction/MoMotorCity8021construct.gif)![Construction work GIF](http://textfiles.com/underconstruction/MoMotorCity8021construct.gif)![Construction work GIF](http://textfiles.com/underconstruction/MoMotorCity8021construct.gif)![Construction work GIF](http://textfiles.com/underconstruction/MoMotorCity8021construct.gif)![Construction work GIF](http://textfiles.com/underconstruction/MoMotorCity8021construct.gif)![Construction work GIF](http://textfiles.com/underconstruction/MoMotorCity8021construct.gif)![Construction work GIF](http://textfiles.com/underconstruction/MoMotorCity8021construct.gif)![Construction work GIF](http://textfiles.com/underconstruction/MoMotorCity8021construct.gif)![Construction work GIF](http://textfiles.com/underconstruction/MoMotorCity8021construct.gif)![Construction work GIF](http://textfiles.com/underconstruction/MoMotorCity8021construct.gif)
-
-![Loading](https://gifcities.org/assets/loading1.gif)
-
 ![Spinning rainbow bar](https://web.archive.org/web/20090829043216/http://www.geocities.com/roqofages/BarFlashingRainbow.gif)   
 
 My name is Ash. I use he/him or they/them pronouns. As evidenced by this readme, I am intesely motivated by formality in everything that I do.

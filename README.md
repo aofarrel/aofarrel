@@ -1,6 +1,4 @@
-![Spinning rainbow bar](https://web.archive.org/web/20090829043216/http://www.geocities.com/roqofages/BarFlashingRainbow.gif)   
-
-My name is Ash. I use he/him or they/them pronouns. As evidenced by this readme, I am intesely motivated by formality in everything that I do.
+![Pronouns he-slash-they](https://img.shields.io/badge/pronouns-he%2Fthey-green)![Affiliation UC Santa Cruz](https://img.shields.io/badge/affiliation-UC%20Santa%20Cruz-blue). 
 
 I consider myself to be a combination of a user and a programmer, and I try to bridge that gap by making useful, well-documented tools or by writing documentation for tools that other people have authored. With that being said, I'm early in my career and I am learning every day. If you have any suggestions for making what I write clearer, please feel free to open a PR. I am also hoping to learn more about efficiency in my code, especially in Python.
 

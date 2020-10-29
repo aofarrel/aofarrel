@@ -5,7 +5,11 @@ I consider myself to be a combination of a user and a programmer, and I try to b
 If you need to contact me about work-related things, the best way to reach me is on Slack.
 ![Spinning rainbow bar](https://web.archive.org/web/20090829043216/http://www.geocities.com/roqofages/BarFlashingRainbow.gif)
 
-
+I tend to add the following tags to my commits when developing, especially in repos where I don't yet have Travis set up yet. It's in reference to my internal tests, which can change during development. These are notes to myself and not really useful to a user, but if you were wondering...
+[ff] Fully functional
+[nf] Not functional
+[sf] Sorta functional
+[ut] Untested
 
 
 <!--

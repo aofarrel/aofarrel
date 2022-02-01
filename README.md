@@ -1,16 +1,5 @@
 ![Pronouns he-slash-they](https://img.shields.io/badge/pronouns-he%2Fthey-green) ![Affiliation UC Santa Cruz](https://img.shields.io/badge/affiliation-UC%20Santa%20Cruz-blue) 
 
-I consider myself to be a combination of a user and a programmer, and I try to bridge that gap by making useful, well-documented tools or by writing documentation for tools that other people have authored. With that being said, I'm early in my career and I am learning every day. If you have any suggestions for making what I write clearer, please feel free to open a PR. I am also hoping to learn more about efficiency in my code, especially in Python.
-
-If you need to contact me about work-related things, the best way to reach me is on Slack.
-![Spinning rainbow bar](https://web.archive.org/web/20090829043216/http://www.geocities.com/roqofages/BarFlashingRainbow.gif)
-
-I tend to add the following tags to my commits when developing, especially in repos where I don't yet have Travis set up yet. It's in reference to my internal tests, which can change during development. These are notes to myself and not really useful to a user, but if you were wondering...  
-[ff] Fully functional  
-[nf] Not functional   
-[sf] Sorta functional  
-[ut] Untested  
-
 
 <!--
 **aofarrel/aofarrel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

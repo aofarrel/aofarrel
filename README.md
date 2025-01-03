@@ -1,4 +1,6 @@
-![Pronouns he-slash-they](https://img.shields.io/badge/pronouns-he%2Fthey-green) ![Affiliation UC Santa Cruz](https://img.shields.io/badge/affiliation-UC%20Santa%20Cruz-blue) 
+![Pronouns he-slash-they](https://img.shields.io/badge/pronouns-he%2Fthey-green) ![Affiliation UC Santa Cruz](https://img.shields.io/badge/affiliation-UC%20Santa%20Cruz-blue) ![Mycobacterium tuberculosis](https://img.shields.io/badge/Mycobacterium-tuberculosis-red) 
+
+Primarily working in Python and WDL for UC Santa Cruz on projects relating to tuberculosis. 
 
 
 <!--
